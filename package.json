@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/98oktay/react-native-axis-pad#readme",
   "dependencies": {
-    "react": "^16.13.1",
-    "react-native": "^0.63.2",
-    "react-test-renderer": "^16.13.1"
+    "react": "17.0.2",
+    "react-native": "^0.68.2",
+    "react-test-renderer": "17.0.2"
   }
 }
